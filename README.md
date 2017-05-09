@@ -9,3 +9,5 @@ And yet another interesting thing
 Once more for the people
 
 Testing security measures
+
+Negative security test
